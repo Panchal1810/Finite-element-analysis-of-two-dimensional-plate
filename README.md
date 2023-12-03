@@ -1,5 +1,5 @@
 # Finite-element-analysis-of-two-dimensional-plate
-The displacement and stress is computed on the two-dimensional plate using Finite Element Method (plain stress condition). The discretization is carried out using three noded triangular, four noded and 8 noded  quard elements. Finally, the displacement and stress is compared with different type of elements.
+The displacement and stress is computed on the two-dimensional plate using Finite Element Method (plain stress condition). The discretization is carried out using three noded triangular, four noded and 8 noded  quard elements. The grid independent study is performed for quard and triangular element using 8,16 and 64 elements and 8,16 and 72 elements, respectively. in Finally, the displacement and stress is compared with different type of elements.
 
 
 
